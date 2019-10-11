@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "carthage-recursive"
+github "dm61/LoopKit" "non-linear-carbs"
+github "jeremybarnum/dexcom-share-client-swift" "nlc"
