@@ -1,2 +1,2 @@
-github "dm61/LoopKit" "non-linear-carbs"
+github "dm61/LoopKit" "carb-model-refactor"
 github "jeremybarnum/dexcom-share-client-swift" "nlc"
